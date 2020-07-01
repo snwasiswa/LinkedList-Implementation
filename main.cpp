@@ -2,7 +2,6 @@
 //
 //  Name : Steve Wasiswa
 //  Date : 12/13/2019
-//  Filename: hw7.cpp
 //  Description: The main purpose of this program is to test all methods using hard codes
 //
 /////////////////////////////////////////////////////////////////////////////////////////////
